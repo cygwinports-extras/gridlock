@@ -1,9 +1,0 @@
-category: Games
-requires: python python-numpy python-opengl python-wx2.8
-sdesc: "Collection of strategy board games"
-ldesc: "Gridlock is collection of over 25 abstract strategy board games, 
-including Ataxx, Reversi, Checkers, Chess, Connect Four, and many 
-others. Most of the games are for two players; you can play against 
-computer opponents of adjustable difficulty, or human opponents over the 
-network. There are also several solitaire games. Some of the games can 
-be played in 3-dimensional boards."

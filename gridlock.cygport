@@ -1,6 +1,16 @@
 inherit python
 
-DESCRIPTION="Collection of board games"
+NAME="gridlock"
+VERSION=2.1
+RELEASE=3
+CATEGORY="Games"
+SUMMARY="Collection of strategy board games"
+DESCRIPTION="Gridlock is collection of over 25 abstract strategy board games,
+including Ataxx, Reversi, Checkers, Chess, Connect Four, and many others. Most
+of the games are for two players; you can play against computer opponents of
+adjustable difficulty, or human opponents over the network. There are also
+several solitaire games. Some of the games can be played in 3-dimensional
+boards."
 HOMEPAGE="http://www.dozingcatsoftware.com/Gridlock/index.html"
 SRC_URI="http://www.dozingcatsoftware.com/Gridlock/Gridlock_${PV}_src.zip"
 SRC_DIR="Gridlock_${PV}_src"
